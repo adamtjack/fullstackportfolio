@@ -197,8 +197,8 @@ h4 {
 
 .project-image img {
   display: block;
-  width: 350px;
-  height: 350px;
+  width: 400px;
+  height: 250px;
   border-top-left-radius: 5px;
   border-bottom-left-radius: 5px;
 }
@@ -206,7 +206,6 @@ h4 {
 .project-content {
   flex: 1 1 auto;
   padding: 1.25rem;
-
   display: flex;
   justify-content: center;
   flex-direction: column;
